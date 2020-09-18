@@ -1,0 +1,36 @@
+.box-error {
+	margin: 10px 0;
+	padding: 10px 20px;
+	background-color: #f04f3a;
+	color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	border-radius: 5px;
+}
+
+.primary-error-part {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.error-msg,
+.secondary-error-part {
+	color: inherit;
+	font-size: 1.3rem;
+	font-weight: 700;
+}
+
+.error-msg a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.exit {
+	padding: 3px;
+}
+
+.exit button {
+	color: #7c0d0d;
+}

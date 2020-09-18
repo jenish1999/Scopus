@@ -1,0 +1,27 @@
+.brand-name {
+	background-color: #231aae;
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: 700;
+}
+
+.nav-item.inner-nav {
+	font-size: 0.8rem;
+	padding-left: 10px;
+}
+
+.sidebar {
+	padding: 0;
+}
+
+.main-tabs a {
+	font-size: 1.4rem;
+}
+
+.main-tabs a i {
+	width: 24px;
+}
+
+li.sub-main-tabs a {
+	font-size: 1.3rem;
+}

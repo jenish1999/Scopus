@@ -1,0 +1,66 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-family: sans-serif;
+}
+
+body {
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+
+.container-fluid,
+.content {
+	padding-bottom: 50px;
+}
+
+.help-link {
+	font-size: 1rem;
+}
+
+div.css-yk16xz-control {
+	border-radius: 0;
+}
+
+div.css-yk16xz-control:focus {
+	border-radius: 0;
+	box-shadow: none;
+}
+
+div.css-1pahdxg-control {
+	box-shadow: none;
+	border-radius: 0;
+}
+
+/* table */
+.result {
+	overflow: scroll;
+}
+
+.help-bottom-text {
+	margin-bottom: 10px;
+}
+
+.element-with-bottom-text {
+	margin-bottom: 0;
+}
+
+/* Scrollbar */
+* {
+	scrollbar-width: thin;
+	scrollbar-color: blue orange;
+}
+*::-webkit-scrollbar {
+	width: 6px;
+}
+*::-webkit-scrollbar-track {
+	background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+	background-color: rgb(90, 90, 95);
+	border-radius: 20px;
+}

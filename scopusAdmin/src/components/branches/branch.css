@@ -1,0 +1,39 @@
+.box {
+	border: 1px solid #cecece;
+	/* margin-top: 10px; */
+	border-radius: 5px;
+	margin-bottom: 20px;
+	background-color: #ffffff;
+}
+
+.box-info {
+	border-top: 5px solid #72d3e4;
+	padding: 10px 20px;
+	background-color: #ffffff;
+}
+
+li.extended-link {
+	list-style-type: none;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+li.extended-link a {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 0.8rem;
+}
+
+li.extended-link a:hover {
+	color: #cecece;
+}
+
+.admin-tabs {
+	padding: 0;
+}
+
+/* home branch */
+button.btn.btn-primary.btn-update {
+	height: fit-content;
+	margin: 0 10px;
+}

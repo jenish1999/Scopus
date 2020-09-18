@@ -1,0 +1,15 @@
+.box.box-info {
+	border-top: 5px solid #72d3e4;
+}
+
+.filter-result {
+	display: flex;
+	padding: 0;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px 20px;
+}
+
+.result {
+	margin: 10px 20px;
+}

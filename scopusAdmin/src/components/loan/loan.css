@@ -1,0 +1,7 @@
+.box-danger {
+	padding-top: 0;
+	margin-top: 0;
+	border-top: 5px solid #9c0909;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}

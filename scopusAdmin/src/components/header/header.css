@@ -1,0 +1,41 @@
+.header-bar {
+	height: 50px;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	color: #ffffff;
+}
+
+.nav-tabs {
+	background-color: #4487eb;
+}
+
+nav ul {
+	background-color: #4487eb;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	height: 40px;
+}
+
+ul.topnav li {
+	list-style: none;
+	float: right;
+}
+
+ul.topnav li.topnav-lt {
+	float: left;
+}
+
+ul.topnav li a {
+	display: block;
+	text-decoration: none;
+	height: 40px;
+	text-align: center;
+	color: #ffffff;
+	padding: 8px;
+}
+
+ul.topnav li a:hover {
+	color: #cecece;
+}

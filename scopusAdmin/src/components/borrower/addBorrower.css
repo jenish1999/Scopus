@@ -1,0 +1,49 @@
+.header-borrower {
+	font-size: 2rem;
+}
+
+.box-primary,
+.box-info {
+	background-color: #ffffff;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: column;
+	border-top: 5px solid #2972c5;
+	padding: 10px;
+}
+
+.box.box-info {
+	border-top: 5px solid #2972c5;
+}
+
+.heading-box {
+	background-color: #cbcbcc;
+	color: #000000;
+	border-radius: 7px;
+	padding: 15px 10px;
+	margin-bottom: 10px;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+
+.rt-options {
+	text-align: right;
+	font-size: 1.2rem;
+	font-weight: 600;
+	margin-top: 6px;
+}
+
+/* addBorrowerGroup */
+.box-success {
+	border-top: 5px solid #0a9168;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: #ffffff;
+	margin-bottom: 10px;
+}
+
+@media screen and (max-width: 770px) {
+	.rt-options {
+		text-align: left;
+	}
+}

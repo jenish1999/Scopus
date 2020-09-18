@@ -1,0 +1,15 @@
+.side-bar,
+.content-area {
+	max-height: 100vh;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.content-area {
+	padding-bottom: 50px;
+}
+
+.container-fluid {
+	overflow: hidden;
+	background-color: rgb(206 206 206 / 43%);
+}
